@@ -21,8 +21,6 @@ namespace HelloWorld2_NowWithGitHub
             Console.WriteLine("              +-----+");
             Console.WriteLine("                | |");
             Console.WriteLine("                > >");
-            Console.WriteLine("");
-            Console.WriteLine("- Jacob Hardie");
             Console.ReadKey();
         }
     }
