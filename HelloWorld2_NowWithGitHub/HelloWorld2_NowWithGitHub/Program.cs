@@ -10,6 +10,20 @@ namespace HelloWorld2_NowWithGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("+-------------+");
+            Console.WriteLine("| Hello World |");
+            Console.WriteLine("+-------------+");
+            Console.WriteLine("              V");
+            Console.WriteLine("              +-----+");
+            Console.WriteLine("              | @ @ |");
+            Console.WriteLine("          *---|  >  |---*");
+            Console.WriteLine("              | (-) |");
+            Console.WriteLine("              +-----+");
+            Console.WriteLine("                | |");
+            Console.WriteLine("                > >");
+            Console.WriteLine("");
+            Console.WriteLine("- Jacob Hardie");
+            Console.ReadKey();
         }
     }
 }
